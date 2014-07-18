@@ -1,4 +1,4 @@
 angular.module('test')
 .controller('index', function () {
-  this.userName = 'mauro';
+  this.userName = 'dexter';
 });
